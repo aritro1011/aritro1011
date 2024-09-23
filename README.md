@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aritro1011
+### 👋 Hi, I’m @aritro1011
 - 👀 I’m interested in Machine Learning and Data Science⚡
 - 🌱 I’m currently learning Lots and Lots of Computer stuff.
 - 📫 How to reach me
