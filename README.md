@@ -28,12 +28,7 @@ Welcome to my GitHub! I'm a Generative AI Analyst(Finance) at OakNorth Bank. I p
 
 
 ## 📊 GitHub Stats  
-
-![Aritro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aritro1011&show_icons=true&theme=radical)  
-
-![Aritro's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aritro1011&theme=radical&hide_border=true)  
-
 ![Aritro's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aritro1011&theme=radical)  
 
-<a href="https://github.com/aritro1011" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritro1011&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
