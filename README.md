@@ -1,14 +1,14 @@
 Hi! My name is Aritro Sen
 ==================================================================================================================================
 
-Aspiring Data Scientist | Machine Learning Engineer
+Generative AI Analyst(Finance) @ OakNorth Global Pvt Ltd.
 ---------------------------------------------------
 
-Welcome to my GitHub! I'm a final-year Computer Science student at VIT Bhopal, specializing in Artificial Intelligence & Machine Learning. I have a deep passion for developing intelligent solutions, working with data-driven technologies, and solving real-world problems using Python, SQL, and AI frameworks. 🔥 What I Do I actively explore the domains of Machine Learning, Data Science, focusing on building practical applications that leverage AI-driven insights. My key areas of interest include: Machine Learning & AI – Exploratory Data Analysis (EDA), ML algorithms, model building, and fine-tuning LLMs. Natural Language Processing (NLP) – Prompt engineering, text analysis, and working with APIs like OpenAI/Gemini. Data Analytics & Visualization – Data preprocessing, trend analysis, and visualization using Pandas, Matplotlib, and Seaborn.
+Welcome to my GitHub! I'm a Generative AI Analyst(Finance) at OakNorth Bank. I pursued Computer Science Engineering at Vellore Institute of Technology, specializing in Artificial Intelligence & Machine Learning. I have a deep passion for developing intelligent solutions, working with data-driven technologies, and solving real-world problems using Artificial Intelligence & Python. 🔥 What I Do I actively explore the domains of Machine Learning, Data Science, focusing on building practical applications that leverage AI-driven insights. My key areas of interest include: Generative AI, Machine Learning & AI- ML algorithms, model building, and fine-tuning LLMs. Natural Language Processing (NLP) – Prompt engineering, text analysis, and working with APIs like OpenAI/Gemini. Data Analytics & Visualization – Data preprocessing, trend analysis, and visualization using Pandas, Matplotlib, and Seaborn.
 
-* 🌍  I'm based in New Delhi,India
+* 🌍  I'm based in Gurugram,Haryana,India
 * ✉️  You can contact me at [aritro1011@gmail.com](mailto:aritro1011@gmail.com)
-* 🤝  I'm open to collaborating on projects related to Natural Language Processing, Computer Vision, Any other field in Data Science.
+* 🤝  I'm open to collaborating on projects related to Generative AI, Natural Language Processing, Computer Vision, Any other field in Data Science.
 
 ### Skills
 
